@@ -1,0 +1,28 @@
+ /* Home */
+#home{
+    background: #E7717D;
+    background: linear-gradient(90deg,#E7717D 50%, #E7717D 100%);
+    min-height: 500px;
+
+} 
+
+/* Cards */
+.card{
+    transition: all 0.5s ease;
+}
+
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0, .15);
+}
+
+/*Form*/
+.form{
+    background: #E7717D;
+    background: linear-gradient(90deg,#E7717D 40%, #E7717D 100%);
+}
+/* Footer */
+.footer{
+    background: #E7717D;
+    background: linear-gradient(90deg,#E7717D 40%, #E7717D 100%);
+}
